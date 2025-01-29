@@ -34,8 +34,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="[https://i.gifer.com/HHq9.gif](https://i.gifer.com/p5F.gif)"  />
-
 ###
 
 <div align="center">
