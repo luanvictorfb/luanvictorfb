@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luanvictorfb/luanvictorfb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/luanvictorfb/luanvictorfb/main/snake.svg" alt="Snake animation" />
 
 ###
